@@ -480,8 +480,10 @@ button span {
 }
 
 #newsletter #mc_embed_signup .mc-field-group {
+	background-image: url("banner/b14.png");
+	background-position: 20% 30%;
 	background-color: #041e42;
-	border: none;
+	border: 1px solid #041e42;
 }
 
 #newsletter #mc_embed_signup .mc-field-group label {
@@ -503,7 +505,10 @@ button span {
 }
 
 #newsletter #mc_embed_signup .clear.foot {
-	background-color: #041e42;;
+	background-image: url("banner/b14.png");
+	background-position: 20% 30%;
+	background-color: #041e42;
+	border: 1px solid #041e42;
 }
 
 #newsletter #mc_embed_signup .optionalParent input {
