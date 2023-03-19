@@ -1,4 +1,4 @@
-// For new nav bar on smaller screen
+// For new nav bar on smaller screens
 const bar = document.getElementById('bar');
 const close = document.getElementById('close');
 const nav = document.getElementById('navbar');
