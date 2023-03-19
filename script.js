@@ -73,9 +73,6 @@ const lastFeatureBox = document.getElementById("last-feature");
 const productOffset = 170;
 setPosComplex(productsButton, lastFeatureBox, productOffset);
 
-const shopButton = document.getElementById("shopNow");
-setPosComplex(shopButton, lastFeatureBox, productOffset);
-
 const featureButton = document.getElementById("features");
 const featureSection = document.getElementById("feature")
 const featureOffset = -90;
